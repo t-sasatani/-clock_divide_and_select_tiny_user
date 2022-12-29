@@ -39,7 +39,6 @@ module user_module(
     assign out[0] = clock_syn;
     assign out[1] = clock_a;
     assign out[2] = clock_b;
-    assign out[3] = clk;
-    assign out[7:4] = 4'b0000;
+    assign out[7:3] = 5'b00000;
     
 endmodule
