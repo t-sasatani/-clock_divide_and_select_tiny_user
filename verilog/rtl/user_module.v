@@ -26,19 +26,19 @@ module user_module(
     assign out[3] = clk;
     assign out[7:4] = 4'b0000;
     
-    always begin
-        @(posedge clk)
-            clock_counter_a <= clock_counter_a + 1;
-            clock_counter_b <= clock_counter_b + 1;
-        @(negedge clk)
-            if (clock_div_factor_a < clock_counter_a) begin
-                clock_a <= ~clock_a;
-                clock_counter_a <= 4'b0000;
-            end
-            if (clock_div_factor_b < clock_counter_b) begin
-                clock_b <= ~clock_b;
-                clock_counter_b <= 4'b0000;
-            end
+    always @ (posedge clk) begin
+        clock_counter_a <= clock_counter_a + 1;
+        clock_counter_b <= clock_counter_b + 1;
+    end
+    always @ (negedge clk) begin
+        if (clock_div_factor_a < clock_counter_a) begin
+            clock_a <= ~clock_a;
+            clock_counter_a <= 4'b0000;
+        end
+        if (clock_div_factor_b < clock_counter_b) begin
+            clock_b <= ~clock_b;
+            clock_counter_b <= 4'b0000;
+        end
     end
     
 endmodule
