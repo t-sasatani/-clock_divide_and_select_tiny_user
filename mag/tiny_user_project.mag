@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1672312134
+timestamp 1672314262
 << viali >>
 rect 1777 31297 1811 31331
 rect 3985 31297 4019 31331
@@ -27016,307 +27016,307 @@ transform 1 0 26864 0 -1 31552
 box -38 -48 130 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_1 pdk/sky130A/libs.ref/sky130_fd_sc_hd/mag
 timestamp 1666464484
-transform 1 0 28152 0 1 8704
+transform 1 0 28152 0 -1 3264
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_2
 timestamp 1666464484
-transform 1 0 28152 0 1 10880
+transform 1 0 28152 0 -1 5440
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_3
 timestamp 1666464484
-transform 1 0 28152 0 1 13056
+transform 1 0 28152 0 1 6528
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_4
 timestamp 1666464484
-transform 1 0 28152 0 -1 15232
+transform 1 0 28152 0 1 8704
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_5
 timestamp 1666464484
-transform 1 0 28152 0 -1 17408
+transform 1 0 28152 0 1 10880
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_6
 timestamp 1666464484
-transform 1 0 28152 0 -1 19584
+transform 1 0 28152 0 1 13056
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_7
 timestamp 1666464484
-transform 1 0 28152 0 -1 21760
+transform 1 0 28152 0 -1 15232
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_8
 timestamp 1666464484
-transform 1 0 28152 0 1 22848
+transform 1 0 28152 0 -1 17408
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_9
 timestamp 1666464484
-transform 1 0 28152 0 1 25024
+transform 1 0 28152 0 -1 19584
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_10
 timestamp 1666464484
-transform 1 0 28152 0 1 27200
+transform 1 0 28152 0 -1 21760
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_11
 timestamp 1666464484
-transform 1 0 28152 0 1 29376
+transform 1 0 28152 0 1 22848
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_12
 timestamp 1666464484
-transform 1 0 28152 0 1 30464
+transform 1 0 28152 0 1 25024
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_13
 timestamp 1666464484
-transform -1 0 28428 0 -1 31552
+transform 1 0 28152 0 1 27200
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_14
 timestamp 1666464484
-transform -1 0 25208 0 -1 31552
+transform 1 0 28152 0 1 29376
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_15
 timestamp 1666464484
-transform -1 0 22264 0 -1 31552
+transform 1 0 28152 0 1 30464
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_16
 timestamp 1666464484
-transform -1 0 18584 0 -1 31552
+transform -1 0 28428 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_17
 timestamp 1666464484
-transform -1 0 15272 0 -1 31552
+transform -1 0 25208 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_18
 timestamp 1666464484
-transform -1 0 11960 0 -1 31552
+transform -1 0 22264 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_19
 timestamp 1666464484
-transform -1 0 8648 0 -1 31552
+transform -1 0 18584 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_20
 timestamp 1666464484
-transform -1 0 5336 0 -1 31552
+transform -1 0 15272 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_21
 timestamp 1666464484
-transform -1 0 2024 0 -1 31552
+transform -1 0 11960 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_22
 timestamp 1666464484
-transform -1 0 1840 0 1 30464
+transform -1 0 8648 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_23
 timestamp 1666464484
-transform -1 0 1840 0 1 28288
+transform -1 0 5336 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_24
 timestamp 1666464484
-transform -1 0 1840 0 1 26112
+transform -1 0 2024 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_25
 timestamp 1666464484
-transform -1 0 1840 0 1 23936
+transform -1 0 1840 0 1 30464
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_26
 timestamp 1666464484
-transform -1 0 1840 0 -1 22848
+transform -1 0 1840 0 1 28288
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_27
 timestamp 1666464484
-transform -1 0 1840 0 -1 20672
+transform -1 0 1840 0 1 26112
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_28
 timestamp 1666464484
-transform -1 0 1840 0 -1 18496
+transform -1 0 1840 0 1 23936
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_29
 timestamp 1666464484
-transform -1 0 1840 0 -1 16320
+transform -1 0 1840 0 -1 22848
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_30
 timestamp 1666464484
-transform -1 0 1840 0 1 14144
+transform -1 0 1840 0 -1 20672
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_31
 timestamp 1666464484
-transform -1 0 1840 0 1 11968
+transform -1 0 1840 0 -1 18496
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_32
 timestamp 1666464484
-transform -1 0 1840 0 1 9792
+transform -1 0 1840 0 -1 16320
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_33
 timestamp 1666464484
-transform -1 0 1840 0 1 7616
+transform -1 0 1840 0 1 14144
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_34
 timestamp 1666464484
-transform -1 0 1840 0 -1 6528
+transform -1 0 1840 0 1 11968
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_35
 timestamp 1666464484
-transform -1 0 1840 0 -1 4352
+transform -1 0 1840 0 1 9792
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_36
 timestamp 1666464484
-transform 1 0 28152 0 1 3264
+transform -1 0 1840 0 1 7616
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_37
 timestamp 1666464484
-transform 1 0 28152 0 1 5440
+transform -1 0 1840 0 -1 6528
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_38
 timestamp 1666464484
-transform 1 0 28152 0 1 7616
+transform -1 0 1840 0 -1 4352
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_39
 timestamp 1666464484
-transform 1 0 28152 0 -1 9792
+transform 1 0 28152 0 1 3264
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_40
 timestamp 1666464484
-transform 1 0 28152 0 -1 11968
+transform 1 0 28152 0 1 5440
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_41
 timestamp 1666464484
-transform 1 0 28152 0 -1 14144
+transform 1 0 28152 0 1 7616
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_42
 timestamp 1666464484
-transform 1 0 28152 0 -1 16320
+transform 1 0 28152 0 -1 9792
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_43
 timestamp 1666464484
-transform 1 0 28152 0 1 17408
+transform 1 0 28152 0 -1 11968
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_44
 timestamp 1666464484
-transform 1 0 28152 0 1 19584
+transform 1 0 28152 0 -1 14144
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_45
 timestamp 1666464484
-transform 1 0 28152 0 1 21760
+transform 1 0 28152 0 -1 16320
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_46
 timestamp 1666464484
-transform 1 0 28152 0 1 23936
+transform 1 0 28152 0 1 17408
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_47
 timestamp 1666464484
-transform 1 0 28152 0 -1 26112
+transform 1 0 28152 0 1 19584
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_48
 timestamp 1666464484
-transform 1 0 28152 0 -1 28288
+transform 1 0 28152 0 1 21760
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_49
 timestamp 1666464484
-transform 1 0 28152 0 -1 30464
+transform 1 0 28152 0 1 23936
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_50
 timestamp 1666464484
-transform 1 0 27508 0 1 30464
+transform 1 0 28152 0 -1 26112
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_51
 timestamp 1666464484
-transform -1 0 27416 0 -1 31552
+transform 1 0 28152 0 -1 28288
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_52
 timestamp 1666464484
-transform -1 0 24104 0 -1 31552
+transform 1 0 28152 0 -1 30464
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_53
 timestamp 1666464484
-transform -1 0 20792 0 -1 31552
+transform 1 0 27508 0 1 30464
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_54
 timestamp 1666464484
-transform -1 0 17480 0 -1 31552
+transform -1 0 27416 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_55
 timestamp 1666464484
-transform -1 0 14536 0 -1 31552
+transform -1 0 24104 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_56
 timestamp 1666464484
-transform -1 0 10856 0 -1 31552
+transform -1 0 20792 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_57
 timestamp 1666464484
-transform -1 0 7544 0 -1 31552
+transform -1 0 17480 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_58
 timestamp 1666464484
-transform -1 0 4232 0 -1 31552
+transform -1 0 14536 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_59
 timestamp 1666464484
-transform -1 0 2668 0 -1 31552
+transform -1 0 10856 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_60
 timestamp 1666464484
-transform -1 0 1840 0 1 29376
+transform -1 0 7544 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_61
 timestamp 1666464484
-transform -1 0 1840 0 -1 28288
+transform -1 0 4232 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_62
 timestamp 1666464484
-transform -1 0 1840 0 -1 26112
+transform -1 0 2668 0 -1 31552
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_63
 timestamp 1666464484
-transform -1 0 1840 0 -1 23936
+transform -1 0 1840 0 1 29376
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_64
 timestamp 1666464484
-transform -1 0 1840 0 -1 21760
+transform -1 0 1840 0 -1 28288
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_65
 timestamp 1666464484
-transform -1 0 1840 0 1 19584
+transform -1 0 1840 0 -1 26112
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_66
 timestamp 1666464484
-transform -1 0 1840 0 1 17408
+transform -1 0 1840 0 -1 23936
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_67
 timestamp 1666464484
-transform -1 0 1840 0 1 15232
+transform -1 0 1840 0 -1 21760
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_68
 timestamp 1666464484
-transform -1 0 1840 0 1 13056
+transform -1 0 1840 0 1 19584
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_69
 timestamp 1666464484
-transform -1 0 1840 0 -1 11968
+transform -1 0 1840 0 1 17408
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_70
 timestamp 1666464484
-transform -1 0 1840 0 -1 9792
+transform -1 0 1840 0 1 15232
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_71
 timestamp 1666464484
-transform -1 0 1840 0 -1 7616
+transform -1 0 1840 0 1 13056
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_72
 timestamp 1666464484
-transform -1 0 1840 0 -1 5440
+transform -1 0 1840 0 -1 11968
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_73
 timestamp 1666464484
-transform -1 0 1840 0 1 3264
+transform -1 0 1840 0 -1 9792
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_74
 timestamp 1666464484
-transform 1 0 28152 0 -1 3264
+transform -1 0 1840 0 -1 7616
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_75
 timestamp 1666464484
-transform 1 0 28152 0 -1 5440
+transform -1 0 1840 0 -1 5440
 box -38 -48 314 592
 use sky130_fd_sc_hd__conb_1  tiny_user_project_76
 timestamp 1666464484
-transform 1 0 28152 0 1 6528
+transform -1 0 1840 0 1 3264
 box -38 -48 314 592
 << labels >>
 flabel metal3 s 29200 1912 30000 2032 0 FreeSans 480 0 0 0 io_in[0]
@@ -27565,82 +27565,82 @@ flabel metal4 s 28728 2128 29048 31600 0 FreeSans 1920 90 0 0 vssd1
 port 115 nsew ground bidirectional
 rlabel metal1 14996 31008 14996 31008 0 vccd1
 rlabel via1 15076 31552 15076 31552 0 vssd1
-rlabel via2 28382 9061 28382 9061 0 net1
-rlabel via2 28382 27421 28382 27421 0 net10
-rlabel metal2 28382 29393 28382 29393 0 net11
-rlabel metal2 28382 31059 28382 31059 0 net12
-rlabel metal2 28198 32276 28198 32276 0 net13
-rlabel metal1 24932 31314 24932 31314 0 net14
-rlabel metal1 21804 31314 21804 31314 0 net15
-rlabel metal1 18308 31314 18308 31314 0 net16
-rlabel metal1 14904 31314 14904 31314 0 net17
-rlabel metal1 11684 31314 11684 31314 0 net18
-rlabel metal1 8372 31314 8372 31314 0 net19
-rlabel via2 28382 11101 28382 11101 0 net2
-rlabel metal1 5060 31314 5060 31314 0 net20
-rlabel metal1 1748 31314 1748 31314 0 net21
-rlabel metal3 1142 30260 1142 30260 0 net22
-rlabel metal3 1142 28220 1142 28220 0 net23
-rlabel metal3 1142 26180 1142 26180 0 net24
-rlabel metal3 1142 24140 1142 24140 0 net25
-rlabel metal3 1142 22100 1142 22100 0 net26
-rlabel metal3 1142 20060 1142 20060 0 net27
-rlabel metal3 1142 18020 1142 18020 0 net28
-rlabel metal3 1142 15980 1142 15980 0 net29
-rlabel metal2 28382 13073 28382 13073 0 net3
-rlabel metal3 1142 13940 1142 13940 0 net30
-rlabel metal3 1142 11900 1142 11900 0 net31
-rlabel metal3 1142 9860 1142 9860 0 net32
-rlabel metal3 1142 7820 1142 7820 0 net33
-rlabel metal3 1142 5780 1142 5780 0 net34
-rlabel metal3 1142 3740 1142 3740 0 net35
-rlabel via2 28382 3621 28382 3621 0 net36
-rlabel via2 28382 5661 28382 5661 0 net37
-rlabel metal2 28382 7633 28382 7633 0 net38
-rlabel via2 28382 9435 28382 9435 0 net39
-rlabel via2 28382 14875 28382 14875 0 net4
-rlabel via2 28382 11509 28382 11509 0 net40
-rlabel metal2 28382 13617 28382 13617 0 net41
-rlabel metal2 28382 15725 28382 15725 0 net42
-rlabel via2 28382 17629 28382 17629 0 net43
-rlabel via2 28382 19941 28382 19941 0 net44
-rlabel via2 28382 21981 28382 21981 0 net45
-rlabel metal2 28382 23953 28382 23953 0 net46
-rlabel via2 28382 25755 28382 25755 0 net47
-rlabel via2 28382 27829 28382 27829 0 net48
-rlabel metal2 28382 29937 28382 29937 0 net49
-rlabel via2 28382 16949 28382 16949 0 net5
-rlabel metal3 28528 31892 28528 31892 0 net50
-rlabel metal1 27140 31314 27140 31314 0 net51
-rlabel metal1 23828 31314 23828 31314 0 net52
-rlabel metal1 20516 31314 20516 31314 0 net53
-rlabel metal1 17204 31314 17204 31314 0 net54
-rlabel metal1 14076 31314 14076 31314 0 net55
-rlabel metal1 10580 31314 10580 31314 0 net56
-rlabel metal1 7268 31314 7268 31314 0 net57
-rlabel metal1 3956 31314 3956 31314 0 net58
-rlabel metal1 1518 31246 1518 31246 0 net59
-rlabel metal2 28382 19057 28382 19057 0 net6
-rlabel metal3 1142 29580 1142 29580 0 net60
-rlabel metal3 1142 27540 1142 27540 0 net61
-rlabel metal3 1142 25500 1142 25500 0 net62
-rlabel metal3 1142 23460 1142 23460 0 net63
-rlabel metal3 1142 21420 1142 21420 0 net64
-rlabel metal3 1142 19380 1142 19380 0 net65
-rlabel metal3 1142 17340 1142 17340 0 net66
-rlabel metal3 1142 15300 1142 15300 0 net67
-rlabel metal3 1142 13260 1142 13260 0 net68
-rlabel metal3 1142 11220 1142 11220 0 net69
-rlabel metal2 28382 21165 28382 21165 0 net7
-rlabel metal3 1142 9180 1142 9180 0 net70
-rlabel metal3 1142 7140 1142 7140 0 net71
-rlabel metal3 1142 5100 1142 5100 0 net72
-rlabel metal3 1142 3060 1142 3060 0 net73
-rlabel metal3 28850 2652 28850 2652 0 net74
-rlabel metal2 28382 4845 28382 4845 0 net75
-rlabel via2 28382 6749 28382 6749 0 net76
-rlabel via2 28382 23069 28382 23069 0 net8
-rlabel via2 28382 25381 28382 25381 0 net9
+rlabel metal3 28850 2652 28850 2652 0 net1
+rlabel metal2 28382 21165 28382 21165 0 net10
+rlabel via2 28382 23069 28382 23069 0 net11
+rlabel via2 28382 25381 28382 25381 0 net12
+rlabel via2 28382 27421 28382 27421 0 net13
+rlabel metal2 28382 29393 28382 29393 0 net14
+rlabel metal2 28382 31059 28382 31059 0 net15
+rlabel metal2 28198 32276 28198 32276 0 net16
+rlabel metal1 24932 31314 24932 31314 0 net17
+rlabel metal1 21804 31314 21804 31314 0 net18
+rlabel metal1 18308 31314 18308 31314 0 net19
+rlabel metal2 28382 4845 28382 4845 0 net2
+rlabel metal1 14904 31314 14904 31314 0 net20
+rlabel metal1 11684 31314 11684 31314 0 net21
+rlabel metal1 8372 31314 8372 31314 0 net22
+rlabel metal1 5060 31314 5060 31314 0 net23
+rlabel metal1 1748 31314 1748 31314 0 net24
+rlabel metal3 1142 30260 1142 30260 0 net25
+rlabel metal3 1142 28220 1142 28220 0 net26
+rlabel metal3 1142 26180 1142 26180 0 net27
+rlabel metal3 1142 24140 1142 24140 0 net28
+rlabel metal3 1142 22100 1142 22100 0 net29
+rlabel via2 28382 6749 28382 6749 0 net3
+rlabel metal3 1142 20060 1142 20060 0 net30
+rlabel metal3 1142 18020 1142 18020 0 net31
+rlabel metal3 1142 15980 1142 15980 0 net32
+rlabel metal3 1142 13940 1142 13940 0 net33
+rlabel metal3 1142 11900 1142 11900 0 net34
+rlabel metal3 1142 9860 1142 9860 0 net35
+rlabel metal3 1142 7820 1142 7820 0 net36
+rlabel metal3 1142 5780 1142 5780 0 net37
+rlabel metal3 1142 3740 1142 3740 0 net38
+rlabel via2 28382 3621 28382 3621 0 net39
+rlabel via2 28382 9061 28382 9061 0 net4
+rlabel via2 28382 5661 28382 5661 0 net40
+rlabel metal2 28382 7633 28382 7633 0 net41
+rlabel via2 28382 9435 28382 9435 0 net42
+rlabel via2 28382 11509 28382 11509 0 net43
+rlabel metal2 28382 13617 28382 13617 0 net44
+rlabel metal2 28382 15725 28382 15725 0 net45
+rlabel via2 28382 17629 28382 17629 0 net46
+rlabel via2 28382 19941 28382 19941 0 net47
+rlabel via2 28382 21981 28382 21981 0 net48
+rlabel metal2 28382 23953 28382 23953 0 net49
+rlabel via2 28382 11101 28382 11101 0 net5
+rlabel via2 28382 25755 28382 25755 0 net50
+rlabel via2 28382 27829 28382 27829 0 net51
+rlabel metal2 28382 29937 28382 29937 0 net52
+rlabel metal3 28528 31892 28528 31892 0 net53
+rlabel metal1 27140 31314 27140 31314 0 net54
+rlabel metal1 23828 31314 23828 31314 0 net55
+rlabel metal1 20516 31314 20516 31314 0 net56
+rlabel metal1 17204 31314 17204 31314 0 net57
+rlabel metal1 14076 31314 14076 31314 0 net58
+rlabel metal1 10580 31314 10580 31314 0 net59
+rlabel metal2 28382 13073 28382 13073 0 net6
+rlabel metal1 7268 31314 7268 31314 0 net60
+rlabel metal1 3956 31314 3956 31314 0 net61
+rlabel metal1 1518 31246 1518 31246 0 net62
+rlabel metal3 1142 29580 1142 29580 0 net63
+rlabel metal3 1142 27540 1142 27540 0 net64
+rlabel metal3 1142 25500 1142 25500 0 net65
+rlabel metal3 1142 23460 1142 23460 0 net66
+rlabel metal3 1142 21420 1142 21420 0 net67
+rlabel metal3 1142 19380 1142 19380 0 net68
+rlabel metal3 1142 17340 1142 17340 0 net69
+rlabel via2 28382 14875 28382 14875 0 net7
+rlabel metal3 1142 15300 1142 15300 0 net70
+rlabel metal3 1142 13260 1142 13260 0 net71
+rlabel metal3 1142 11220 1142 11220 0 net72
+rlabel metal3 1142 9180 1142 9180 0 net73
+rlabel metal3 1142 7140 1142 7140 0 net74
+rlabel metal3 1142 5100 1142 5100 0 net75
+rlabel metal3 1142 3060 1142 3060 0 net76
+rlabel via2 28382 16949 28382 16949 0 net8
+rlabel metal2 28382 19057 28382 19057 0 net9
 << properties >>
 string FIXED_BBOX 0 0 30000 34000
 << end >>
